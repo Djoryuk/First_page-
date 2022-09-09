@@ -22,16 +22,16 @@ export default function Contacts() {
         <p>203, Evanto Labs, Behind Alis Street , Australia</p>
         </div>
         <div className="info">
-        <a href='#'>
+        <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
                 <AiFillFacebook size={'2rem'} classNameName='ion-icon'/>
             </a>
-            <a href='#'>
+            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
                 <AiFillInstagram size={'2rem'} classNameName='ion-icon'/>
             </a>
-            <a href='#'>
+            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
                 <AiFillTwitterCircle size={'2rem'} classNameName='ion-icon'/>
             </a>
-            <a href='#'>
+            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
                 <AiFillYoutube size={'2rem'} classNameName='ion-icon'/>
             </a>
         </div>
