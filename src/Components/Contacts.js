@@ -37,7 +37,7 @@ export default function Contacts() {
         </div>
     </div>
 
-        <div className="form">
+        <div className="Form">
                         <div className="input-container">
                     <input
                         type="text"
@@ -46,7 +46,7 @@ export default function Contacts() {
                         id="name"
                         name="name"
                     />
-                    <label for="name"> Enter your name</label>
+                    <label For="name"> Enter your name</label>
                     </div>
                     <div className="input-container">
                     <input
@@ -56,7 +56,7 @@ export default function Contacts() {
                         id="email"
                         name="email"
                     />
-                    <label for="email"> Enter a valid email adress</label>
+                    <label For="email"> Enter a valid email adress</label>
                     </div>
                     <div className="input-container msg-container">
                     <textarea
@@ -65,7 +65,7 @@ export default function Contacts() {
                         rows="8"
                         id="comment"
                     ></textarea>
-                    <label for="comment" className="msg-label"> Enter your message</label>
+                    <label For="comment" className="msg-label"> Enter your message</label>
                     </div>
                     <input
                     type="submit"
