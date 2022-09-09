@@ -21,13 +21,13 @@ export default function NavBar() {
 
     <ul className="socialMedia-list">
         <li>
-        <a href="#"><AiFillFacebook size={"2rem"}/></a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><AiFillFacebook size={"2rem"}/></a>
         </li>
         <li>
-        <a href="#"><AiFillTwitterSquare size={"2rem"}/></a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><AiFillTwitterSquare size={"2rem"}/></a>
         </li>
         <li>
-        <a href="#"><AiFillInstagram size={"2rem"}/></a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><AiFillInstagram size={"2rem"}/></a>
         </li>
     </ul>
 
