@@ -37,10 +37,10 @@ export default function NavBar() {
     </div>
     {colapse?
         <div className="bg-white text-center border-bottom-2 p-0">
-        <a href="#" className="display-block p-20">About</a>  
-        <a href="#" className="display-block p-20">services</a>  
-        <a href="#" className="display-block p-20">Support</a>  
-        <a href="#" className="display-block p-20">contact</a>      
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="display-block p-20">About</a>  
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="display-block p-20">services</a>  
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="display-block p-20">Support</a>  
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className="display-block p-20">contact</a>      
         </div>
         :
         <></>
